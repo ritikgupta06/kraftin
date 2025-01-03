@@ -14,7 +14,7 @@ const Home = () => {
       {/* Configuring StatusBar */}
       <StatusBar barStyle="light-content" backgroundColor="#121212" />
       <SafeAreaView>
-        <Text>this is home page</Text>
+        <Text>welcome to kraftin</Text>
       </SafeAreaView>
     </>
   );
